@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/order-summary-card-solution-HkO3ht2Xc)
+- Live Site URL: [Live site URL here](https://mohameddwedar689.github.io/Order-summary-card-solution/)
 
 ## My process
 
